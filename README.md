@@ -140,6 +140,3 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer" alt="footer"/>
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raameena/raameena/output/snake.svg" alt="Snake animation" />
